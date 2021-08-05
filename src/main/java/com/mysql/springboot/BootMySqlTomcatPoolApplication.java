@@ -90,6 +90,14 @@ public class BootMySqlTomcatPoolApplication implements CommandLineRunner {
 
 	}
 
+	/**
+	 * Helper method to return dummy 'Course' to Insert.
+	 * 
+	 * The method takes Calendar class to get current date and next desired months
+	 * to pass as start date and end date respectively.
+	 * 
+	 * @return Course
+	 */
 	private Course dummyInsertCourse() {
 
 		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
@@ -116,7 +124,16 @@ public class BootMySqlTomcatPoolApplication implements CommandLineRunner {
 
 		return course;
 	}
+	
 
+	/**
+	 * Helper method to return dummy 'Course' to Update.
+	 * 
+	 * The method takes Calendar class to get current date and next desired months
+	 * to pass as start date and end date respectively.
+	 * 
+	 * @return Course
+	 */
 	private Course dummyUpdatetCourse() {
 
 		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
