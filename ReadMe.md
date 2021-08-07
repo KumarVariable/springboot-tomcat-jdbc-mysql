@@ -32,7 +32,7 @@
 
 ## **License**
 
-Licensed under GNU General Public License v3.0. Please see LICENSE for details.
+Licensed under GNU General Public License v3.0. Please see [LICENSE](LICENSE) for details.
 
 
 **Happy Learning !**
