@@ -5,13 +5,13 @@
 
 ## **Required Setup**
 
-- `[Java 1.8+](https://www.oracle.com/java/technologies/javase-downloads.html)` OR `[Open JDK 1.8+](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)`
+- [Java 1.8+](https://www.oracle.com/java/technologies/javase-downloads.html) OR [Open JDK 1.8+](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html)
 
-- `[Apache Maven](https://maven.apache.org/download.cgi)`
+- [Apache Maven](https://maven.apache.org/download.cgi)
 
-- `[MySQL Community Edition v5.7](https://dev.mysql.com/downloads/mysql/)`
+- [MySQL Community Edition v5.7](https://dev.mysql.com/downloads/mysql/)
 
-- `[Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/)`
+- [Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/)
 
 
 ## **Installation**
